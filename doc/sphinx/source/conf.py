@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Cours d'Informatique Industrielle avec ROS2"
-copyright = '2024, Manuel YGUEL'
-author = 'Manuel YGUEL'
+project = "Mon site internet"
+copyright = '2025, Ali MAKKI'
+author = 'Ali MAKKI'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
